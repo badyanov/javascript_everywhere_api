@@ -14,5 +14,7 @@
   "description": "<img src=\"cover.png\" width=\"200\" align=\"right\" />",
   "version": "1.0.0",
   "author": "d.badyanov@outlook.com",
-  "license": "ISC"
+  "license": "ISC",
+  "main": "index.js",
+  "devDependencies": {}
 }
